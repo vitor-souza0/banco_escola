@@ -1,3 +1,3 @@
 # Banco escola
 
-<img src="Captura.PNG">
+<img src="Capturar.PNG">
